@@ -1,21 +1,21 @@
-# 🌸 Inner Bliss — Mental Wellness Platform
+# 🌸 Inner Bliss - Mental Wellness Platform
 
 A full-stack mental wellness application built with React, Node.js, Express, and MongoDB.
 
 ## ✨ Features
 
-- **🌸 Mood Tracker** — Daily mood logging with flower icons + monthly calendar view
-- **🌬️ Breathing Exercise** — Guided 4-4-4-2 breathing animation
-- **💬 Affirmations** — Add, edit, and delete positive quotes
-- **📖 Stories** — Curated stories across 5 categories (motivation, calm, healing, gratitude, resilience)
-- **❤️ PulseMate** — Simulated heart rate checker with reading history
-- **📌 Priority Sorter** — Drag-and-drop task prioritization
-- **🎧 Music Player** — Calming tracks with playlist management
-- **🧠 Neuro Tests** — Self-assessments for 7 mental health areas with scoring and recommendations
-- **👨‍⚕️ Doctor Directory** — Mental health professional contacts
-- **👤 Profile** — Editable user profile
-- **🚨 Emergency Contacts** — CRUD for personal emergency contacts
-- **🔐 JWT Authentication** — Secure signup/login
+- **🌸 Mood Tracker** - Daily mood logging with flower icons and monthly calendar view
+- **🌬️ Breathing Exercise** - Guided 4-4-4-2 breathing animation
+- **💬 Affirmations** - Add, edit, and delete positive quotes
+- **📖 Stories** - Curated stories across a few categories 
+- **❤️ PulseMate** - Simulated heart rate checker with reading history
+- **📌 Priority Sorter** - Drag-and-drop task prioritization
+- **🎧 Music Player** - Calming tracks with playlist management
+- **🧠 Neuro Tests** - Self-assessments for 7 mental health areas with scoring and recommendations
+- **👨‍⚕️ Doctor Directory** - Mental health professional contacts
+- **👤 Profile** - Editable user profile
+- **🚨 Emergency Contacts** - CRUD for personal emergency contacts
+- **🔐 JWT Authentication** - Secure signup/login
 
 ## 🛠️ Tech Stack
 
